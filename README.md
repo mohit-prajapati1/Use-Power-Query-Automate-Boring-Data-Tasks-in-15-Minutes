@@ -1,7 +1,7 @@
 # Use-Power-Query-Automate-Boring-Data-Tasks-in-15-Minutes
 Automate boring Data - Using Advance Excel
 
-Overview
+Overview:
 This project demonstrates how to use Power Query to automate repetitive data tasks efficiently. It focuses on transforming, cleaning, and analyzing data with minimal manual intervention.
 
 Key Features
